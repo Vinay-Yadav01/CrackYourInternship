@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
