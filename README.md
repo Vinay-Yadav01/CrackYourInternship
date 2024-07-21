@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -90,5 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
