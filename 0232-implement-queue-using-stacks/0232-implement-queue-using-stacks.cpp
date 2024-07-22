@@ -22,7 +22,12 @@ public:
         return popped;
     }
 
-    int peek() { return st.top(); }
+    int peek() {
+        if (!st.empty())
+            return st.top();
+        else
+            return -1;
+    }
 
     bool empty() { return st.empty(); }
 };
