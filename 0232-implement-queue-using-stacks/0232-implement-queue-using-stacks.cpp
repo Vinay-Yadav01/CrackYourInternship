@@ -1,10 +1,10 @@
 class MyQueue {
 public:
     stack<int> st;
+    stack<int> st2;
     MyQueue() {}
 
     void push(int x) {
-        stack<int> st2;
         while (!st.empty()) {
             st2.push(st.top());
             st.pop();
