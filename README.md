@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0088-merge-sorted-array) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
