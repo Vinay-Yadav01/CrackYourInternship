@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -196,4 +199,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
