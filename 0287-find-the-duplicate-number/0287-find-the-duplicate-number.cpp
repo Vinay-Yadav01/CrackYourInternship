@@ -1,14 +1,14 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int size=nums.size();
-        vector<int> visited(size,0);
-        for(int i=0;i<size;i++){
-            visited[nums[i]]++;
+        int n = nums.size();
+        vector<int> v(n,0);
+        for(auto i: nums){
+            v[i]++;
         }
-        for(int i=0;i<size;i++){
-            if(visited[i]>=2) return i;
+        for(int i=0;i<n;i++){
+            if(v[i]>=2) return i;
         }
-        return 0;
+        return -1;
     }
 };
