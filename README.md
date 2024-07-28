@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
