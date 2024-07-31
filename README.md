@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0070-climbing-stairs) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
