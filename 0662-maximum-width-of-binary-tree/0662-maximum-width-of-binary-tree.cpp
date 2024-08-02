@@ -6,8 +6,7 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
@@ -16,14 +15,14 @@ public:
         int ans = 0;
         if (root == NULL)
             return ans;
-        queue<pair<TreeNode*, int>> q;
+        queue<pair<TreeNode*, unsigned long long>> q;
         q.push({root, 0});
         while (!q.empty()) {
             int size = q.size();
-            long long first, last;
+            unsigned long long first, last;
             for (int i = 0; i < size; i++) {
                 TreeNode* front = q.front().first;
-                long long val = q.front().second;
+                unsigned long long val = q.front().second;
                 q.pop();
                 if (i == 0)
                     first = val;
