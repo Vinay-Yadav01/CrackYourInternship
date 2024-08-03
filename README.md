@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
