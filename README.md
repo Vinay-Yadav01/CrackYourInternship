@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
