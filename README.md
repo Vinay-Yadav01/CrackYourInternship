@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0055-jump-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
