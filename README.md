@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
