@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
