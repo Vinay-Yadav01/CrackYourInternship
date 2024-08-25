@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0047-permutations-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
