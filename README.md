@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0114-flatten-binary-tree-to-linked-list) |
