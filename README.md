@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
