@@ -14,22 +14,20 @@ class Solution {
     void solve(TreeNode* root, string& temp, int& ans) {
         if (root == NULL)
             return;
-        
-        if (root->left == NULL && root->right == NULL) {
-            temp += to_string(root->val);
-            ans += stoi(temp,nullptr,2);
-            temp.pop_back();
-            return;
-        }
         temp += to_string(root->val);
-        solve(root->left, temp, ans);
-        solve(root->right, temp, ans);
+        if (root->left == NULL && root->right == NULL) {
+            ans += stoi(temp, nullptr, 2);
+        } else {
+            solve(root->left, temp, ans);
+            solve(root->right, temp, ans);
+        }
         temp.pop_back();
     }
 
 public:
     int sumRootToLeaf(TreeNode* root) {
-        if(root->left==NULL && root->right==NULL) return root->val;
+        if (root->left == NULL && root->right == NULL)
+            return root->val;
         string temp = "";
         int ans = 0;
         solve(root, temp, ans);
