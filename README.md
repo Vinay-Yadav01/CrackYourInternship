@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
