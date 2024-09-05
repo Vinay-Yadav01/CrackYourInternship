@@ -11,18 +11,20 @@
  * };
  */
 class Solution {
-    void solve(TreeNode* root, string temp, int& ans) {
+    void solve(TreeNode* root, string& temp, int& ans) {
         if (root == NULL)
             return;
-        temp += to_string(root->val);
+        
         if (root->left == NULL && root->right == NULL) {
+            temp += to_string(root->val);
             ans += stoi(temp,nullptr,2);
+            temp.pop_back();
             return;
         }
-        if (root->left)
-            solve(root->left, temp, ans);
-        if (root->right)
-            solve(root->right, temp, ans);
+        temp += to_string(root->val);
+        solve(root->left, temp, ans);
+        solve(root->right, temp, ans);
+        temp.pop_back();
     }
 
 public:
