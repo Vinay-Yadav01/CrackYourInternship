@@ -16,21 +16,25 @@ public:
         ListNode* curr = head;
         while(curr!=NULL){
             for(int i=sCol;i<=eCol && curr;i++){
+                if(!curr) return ans;
                 ans[sRow][i] = curr->val;
                 curr=curr->next;
             }
             sRow++;
             for(int i=sRow;i<=eRow && curr;i++){
+                if(!curr) return ans;
                 ans[i][eCol] = curr->val;
                 curr=curr->next;
             }
             eCol--;
             for(int i=eCol;i>=sCol && curr;i--){
+                if(!curr) return ans;
                 ans[eRow][i] = curr->val;
                 curr=curr->next;
             }
             eRow--;
             for(int i=eRow;i>=sRow && curr;i--){
+                if(!curr) return ans;
                 ans[i][sCol] = curr->val;
                 curr=curr->next;
             }
