@@ -9,7 +9,6 @@ public:
         }
         sort(temp.rbegin(), temp.rend());
         for (auto it : temp) {
-            cout<<it.first<<" "<<it.second<<endl;
             ans.push_back(it.second);
         }
         return ans;
