@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0416-partition-equal-subset-sum) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
