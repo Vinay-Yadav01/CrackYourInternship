@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0151-reverse-words-in-a-string) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0115-distinct-subsequences) |
