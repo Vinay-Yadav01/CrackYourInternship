@@ -29,30 +29,44 @@ public:
         //     for (int buy = 0; buy < 2; buy++) {
         //         if (buy) {
         //             dp[ind][buy] =
-        //                 max(0 + dp[ind + 1][1], -prices[ind] + dp[ind + 1][0]);
+        //                 max(0 + dp[ind + 1][1], -prices[ind] + dp[ind +
+        //                 1][0]);
         //         } else {
         //             dp[ind][buy] =
-        //                 max(0 + dp[ind + 1][0], prices[ind] + dp[ind + 1][1]);
+        //                 max(0 + dp[ind + 1][0], prices[ind] + dp[ind +
+        //                 1][1]);
         //         }
         //     }
         // }
         // return dp[0][1];
 
+        // int n = prices.size();
+        // vector<int> curr(2, 0), next(2,0);
+        // next[0] = next[1] = 0;
+        // for (int ind = n - 1; ind >= 0; ind--) {
+        //     for (int buy = 0; buy < 2; buy++) {
+        //         if (buy) {
+        //             curr[buy] =
+        //                 max(0 + next[1], -prices[ind] + next[0]);
+        //         } else {
+        //             curr[buy] =
+        //                 max(0 + next[0], prices[ind] + next[1]);
+        //         }
+        //     }
+        //     next=curr;
+        // }
+        // return next[1];
+
         int n = prices.size();
-        vector<int> curr(2, 0), next(2,0);
-        next[0] = next[1] = 0;
+        int currBuy, currNotBuy; 
+        int nextBuy = 0, nextNotBuy = 0;
         for (int ind = n - 1; ind >= 0; ind--) {
-            for (int buy = 0; buy < 2; buy++) {
-                if (buy) {
-                    curr[buy] =
-                        max(0 + next[1], -prices[ind] + next[0]);
-                } else {
-                    curr[buy] =
-                        max(0 + next[0], prices[ind] + next[1]);
-                }
-            }
-            next=curr;
+            currBuy = max(0 + nextBuy, -prices[ind] + nextNotBuy);
+            currNotBuy = max(0 + nextNotBuy, prices[ind] + nextBuy);
+
+            nextBuy = currBuy;
+            nextNotBuy = currNotBuy;
         }
-        return next[1];
+        return nextBuy;
     }
 };
