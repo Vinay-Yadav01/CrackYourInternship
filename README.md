@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 ## Iterator
 |  |
 | ------- |
