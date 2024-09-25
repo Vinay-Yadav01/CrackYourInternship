@@ -50,19 +50,36 @@ public:
         //     n + 1, vector<int>(2*k+1,-1));
         // return solve(0, 0, k, prices, dp);
 
+        // int n = prices.size();
+        // vector<vector<int>> dp(n + 1, vector<int>(2 * k + 1, 0));
+        // for (int ind = n - 1; ind >= 0; ind--) {
+        //     for (int trans = 0; trans < 2 * k; trans++) {
+        //         if (trans % 2 == 0) {
+        //             dp[ind][trans] = max(-prices[ind] + dp[ind + 1][trans + 1],
+        //                                  0 + dp[ind + 1][trans]);
+        //         } else {
+        //             dp[ind][trans] = max(prices[ind] + dp[ind + 1][trans + 1],
+        //                                  0 + dp[ind + 1][trans]);
+        //         }
+        //     }
+        // }
+        // return dp[0][0];
+
         int n = prices.size();
-        vector<vector<int>> dp(n + 1, vector<int>(2 * k + 1, 0));
+        vector<int> curr(2 * k + 1, 0);
+        vector<int> next(2 * k + 1, 0);
         for (int ind = n - 1; ind >= 0; ind--) {
             for (int trans = 0; trans < 2 * k; trans++) {
                 if (trans % 2 == 0) {
-                    dp[ind][trans] = max(-prices[ind] + dp[ind + 1][trans + 1],
-                                         0 + dp[ind + 1][trans]);
+                    curr[trans] = max(-prices[ind] + next[trans + 1],
+                                         0 + next[trans]);
                 } else {
-                    dp[ind][trans] = max(prices[ind] + dp[ind + 1][trans + 1],
-                                         0 + dp[ind + 1][trans]);
+                    curr[trans] = max(prices[ind] + next[trans + 1],
+                                         0 + next[trans]);
                 }
             }
+            next = curr;
         }
-        return dp[0][0];
+        return curr[0];
     }
 };
