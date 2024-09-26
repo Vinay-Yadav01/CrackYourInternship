@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1170-shortest-common-supersequence) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Binary Indexed Tree
 |  |
 | ------- |
