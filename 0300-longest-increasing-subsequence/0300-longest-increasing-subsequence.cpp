@@ -54,16 +54,30 @@ public:
         // }
         // return curr[0];
 
+        // int n = nums.size();
+        // vector<int> dp(n, 1);
+        // int maxi = 1;
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = 0; j < i; j++) {
+        //         if (nums[j] < nums[i])
+        //             dp[i] = max(dp[i], 1 + dp[j]);
+        //     }
+        //     maxi = max(maxi, dp[i]);
+        // }
+        // return maxi;
+
         int n = nums.size();
-        vector<int> dp(n, 1);
-        int maxi = 1;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[j] < nums[i])
-                    dp[i] = max(dp[i], 1 + dp[j]);
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        for (int i = 1; i < n; i++) {
+            if(nums[i]>temp.back()){
+                temp.push_back(nums[i]);
             }
-            maxi = max(maxi, dp[i]);
+            else{
+                int ind = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+                temp[ind] = nums[i];
+            }
         }
-        return maxi;
+        return temp.size();
     }
 };
