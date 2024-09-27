@@ -41,17 +41,29 @@ public:
         // }
         // return dp[0][0];
 
+        // int n = nums.size();
+        // vector<int> curr(n + 1, 0), next(n + 1, 0);
+        // for (int ind = n - 1; ind >= 0; ind--) {
+        //     for (int prev_ind = ind - 1; prev_ind >= -1; prev_ind--) {
+        //         int len = 0 + next[prev_ind + 1]; // Not Take
+        //         if (prev_ind == -1 || nums[prev_ind] < nums[ind])
+        //             len = max(len, 1 + next[ind + 1]); // Take
+        //         curr[prev_ind + 1] = len;
+        //     }
+        //     next = curr;
+        // }
+        // return curr[0];
+
         int n = nums.size();
-        vector<int> curr(n + 1, 0), next(n + 1, 0);
-        for (int ind = n - 1; ind >= 0; ind--) {
-            for (int prev_ind = ind - 1; prev_ind >= -1; prev_ind--) {
-                int len = 0 + next[prev_ind + 1]; // Not Take
-                if (prev_ind == -1 || nums[prev_ind] < nums[ind])
-                    len = max(len, 1 + next[ind + 1]); // Take
-                curr[prev_ind + 1] = len;
+        vector<int> dp(n, 1);
+        int maxi = 1;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (nums[j] < nums[i])
+                    dp[i] = max(dp[i], 1 + dp[j]);
             }
-            next = curr;
+            maxi = max(maxi, dp[i]);
         }
-        return curr[0];
+        return maxi;
     }
 };
