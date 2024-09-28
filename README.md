@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
+| [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0341-flatten-nested-list-iterator) |
+| [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 ## Recursion
 |  |
