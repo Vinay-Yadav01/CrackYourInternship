@@ -32,7 +32,7 @@ public:
             int minCost = INT_MAX;
             for (int j = i; j < n; j++) {
                 if (isPalindrome(i, j, s)) {
-                    minCost = min(minCost, 1 + solve(j + 1, s, dp));
+                    minCost = min(minCost, 1 + dp[j+1]);
                 }
             }
             dp[i] = minCost;
