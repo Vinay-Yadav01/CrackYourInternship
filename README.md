@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
