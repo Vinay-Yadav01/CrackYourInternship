@@ -10,7 +10,7 @@ public:
             int maxi = pq.top();
             ans += maxi;
             pq.pop();
-            pq.push((maxi + 2) / 3);
+            pq.push(ceil(1.0*maxi / 3));
         }
         return ans;
     }
