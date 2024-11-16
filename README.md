@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0132-palindrome-partitioning-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0146-lru-cache) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0199-binary-tree-right-side-view) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
