@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1923-sentence-similarity-iii) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 ## Data Stream
 |  |
 | ------- |
@@ -925,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
