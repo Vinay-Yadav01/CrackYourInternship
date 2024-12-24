@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -879,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1442-number-of-operations-to-make-network-connected) |
