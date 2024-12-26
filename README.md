@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
