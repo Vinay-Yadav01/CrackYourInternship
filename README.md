@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0136-single-number) |
