@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2509-minimize-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2509-minimize-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Indexed Tree
