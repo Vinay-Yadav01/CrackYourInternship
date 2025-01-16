@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
