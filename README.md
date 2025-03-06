@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
