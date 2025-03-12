@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1646-kth-missing-positive-number) |
