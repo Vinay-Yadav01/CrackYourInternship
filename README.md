@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 ## Bucket Sort
 |  |
