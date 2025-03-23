@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Shortest Path
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
