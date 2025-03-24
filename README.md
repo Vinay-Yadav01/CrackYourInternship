@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## String
 |  |
