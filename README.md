@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
