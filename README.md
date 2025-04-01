@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Memoization
