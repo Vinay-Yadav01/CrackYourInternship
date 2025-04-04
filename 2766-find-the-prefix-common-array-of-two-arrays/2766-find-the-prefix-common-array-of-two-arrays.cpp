@@ -1,22 +1,16 @@
 class Solution {
-    int prefixCommon(vector<int>& count1, vector<int>& count2, int n) {
-        int cnt = 0;
-        for (int i = 0; i <= n; i++) {
-            cnt += min(count1[i], count2[i]);
-        }
-        return cnt;
-    }
-
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         int n = A.size();
-        vector<int> count1(n + 1, 0), count2(n + 1, 0);
-        vector<int> C(n);
-        for (int i = 0; i < n; i++) {
-            count1[A[i]]++;
-            count2[B[i]]++;
-            C[i] = prefixCommon(count1, count2, n);
+        vector<int> prefixCommonArray(n), frequency(n + 1, 0);
+        int commonCount = 0;
+        for (int currentIndex = 0; currentIndex < n; ++currentIndex) {
+            if (++frequency[A[currentIndex]] == 2)
+                ++commonCount;
+            if (++frequency[B[currentIndex]] == 2)
+                ++commonCount;
+            prefixCommonArray[currentIndex] = commonCount;
         }
-        return C;
+        return prefixCommonArray;
     }
 };
