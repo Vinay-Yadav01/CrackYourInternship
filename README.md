@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Binary Search
 |  |
