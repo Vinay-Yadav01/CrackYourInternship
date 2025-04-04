@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
