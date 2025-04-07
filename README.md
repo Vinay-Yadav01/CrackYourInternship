@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2792-neighboring-bitwise-xor) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2478-longest-nice-subarray) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
