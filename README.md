@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Math
 |  |
 | ------- |
