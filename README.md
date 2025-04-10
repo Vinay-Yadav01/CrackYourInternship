@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
+| [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
+| [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
 ## Hash Function
