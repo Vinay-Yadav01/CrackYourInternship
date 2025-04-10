@@ -21,8 +21,26 @@ class Solution {
 
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
+        // int n = days.size();
+        // vector<int> dp(n, -1);
+        // return solve(0, days, costs, dp);
         int n = days.size();
-        vector<int> dp(n, -1);
-        return solve(0, days, costs, dp);
+        vector<int> dp(n + 1, 0);
+        dp[n] = 0;
+        for (int ind = n - 1; ind >= 0; ind--) {
+            int op1 = costs[0] + dp[ind+1];
+            int i = ind;
+            while (i < n && days[i] < days[ind] + 7) {
+                i++;
+            }
+            int op2 = costs[1] + dp[i];
+            i = ind;
+            while (i < n && days[i] < days[ind] + 30) {
+                i++;
+            }
+            int op3 = costs[2] + dp[i];
+            dp[ind] = min({op1, op2, op3});
+        }
+        return dp[0];
     }
 };
