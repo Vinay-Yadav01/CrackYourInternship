@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1170-shortest-common-supersequence) |
