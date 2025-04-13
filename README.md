@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2649-count-total-number-of-colored-cells) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
