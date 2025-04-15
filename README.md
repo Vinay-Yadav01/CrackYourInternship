@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2478-longest-nice-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2478-longest-nice-subarray) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1200,16 +1204,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 ## Union Find
 |  |
