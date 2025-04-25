@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1169,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
