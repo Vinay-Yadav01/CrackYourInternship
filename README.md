@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
