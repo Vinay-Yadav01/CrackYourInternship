@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -988,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
