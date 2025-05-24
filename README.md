@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
+| [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1407,4 +1409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1153-product-sales-analysis-i) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
