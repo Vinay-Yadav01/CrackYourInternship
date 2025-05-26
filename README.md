@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0289-game-of-life) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1462,5 +1464,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
