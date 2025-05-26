@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0041-first-missing-positive) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0049-group-anagrams) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
