@@ -927,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
