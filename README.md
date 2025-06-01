@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
@@ -1446,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
 ## Hash Function
 |  |
