@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
