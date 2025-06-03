@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
+| [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
