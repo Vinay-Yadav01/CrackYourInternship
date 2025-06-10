@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2580-circular-sentence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
