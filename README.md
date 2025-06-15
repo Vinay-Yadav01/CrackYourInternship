@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-deepest-leaves-sum) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-deepest-leaves-sum) |
