@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1839-decode-xored-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1839-decode-xored-array) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1923-sentence-similarity-iii) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1839-decode-xored-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
