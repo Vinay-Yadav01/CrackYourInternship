@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3188-find-champion-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3188-find-champion-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
