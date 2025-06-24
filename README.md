@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
@@ -1525,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Union Find
 |  |
 | ------- |
