@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
