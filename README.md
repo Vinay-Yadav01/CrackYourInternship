@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2391-strong-password-checker-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2391-strong-password-checker-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
+| [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
+| [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
