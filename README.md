@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
