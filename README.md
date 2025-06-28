@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1731-even-odd-tree) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1731-even-odd-tree) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1253,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
