@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1539-diagonal-traverse-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1221,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
