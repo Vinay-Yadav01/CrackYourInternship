@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1539,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0937-online-stock-span) |
