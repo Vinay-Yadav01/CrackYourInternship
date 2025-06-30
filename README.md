@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0606-construct-string-from-binary-tree) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
