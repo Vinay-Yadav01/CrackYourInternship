@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
