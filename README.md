@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
