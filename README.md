@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1598,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3265-maximum-good-subarray-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
