@@ -1875,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1153-product-sales-analysis-i) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1908-recyclable-and-low-fat-products) |
 ## Reservoir Sampling
 |  |
