@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
@@ -1599,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2571-find-the-pivot-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1647,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
