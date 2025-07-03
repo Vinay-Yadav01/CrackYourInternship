@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1095-two-city-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1095-two-city-scheduling) |
+| [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
