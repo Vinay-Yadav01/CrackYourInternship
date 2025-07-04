@@ -1901,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0182-duplicate-emails) |
 | [1153-product-sales-analysis-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1153-product-sales-analysis-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1734-bank-account-summary-ii) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1892-find-total-time-spent-by-each-employee) |
