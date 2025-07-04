@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
