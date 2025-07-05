@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1509,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
