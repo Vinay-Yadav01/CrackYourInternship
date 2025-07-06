@@ -1935,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1153-product-sales-analysis-i) |
+| [1258-article-views-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1734-bank-account-summary-ii) |
