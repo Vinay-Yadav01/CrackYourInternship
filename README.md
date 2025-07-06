@@ -1198,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0972-knight-dialer) |
 | [1008-binary-tree-cameras](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
