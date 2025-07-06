@@ -1,7 +1,7 @@
 class Solution {
     int solve(int n, vector<int>& dp) {
-        if (n == 0)
-            return 0;
+        if (n <= 1)
+            return n;
         if (dp[n] != -1)
             return dp[n];
         int ans = INT_MAX;
