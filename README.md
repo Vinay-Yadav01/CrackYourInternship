@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
+| [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
+| [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1718,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1159-smallest-subsequence-of-distinct-characters) |
