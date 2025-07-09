@@ -1123,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
+| [0755-reach-a-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0755-reach-a-number) |
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0732-my-calendar-iii) |
+| [0755-reach-a-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0755-reach-a-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
