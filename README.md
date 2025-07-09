@@ -1988,6 +1988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1258-article-views-i) |
+| [1338-queries-quality-and-percentage](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1625-group-sold-products-by-the-date) |
