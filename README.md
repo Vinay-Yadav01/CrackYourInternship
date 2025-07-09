@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1553,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Counting
@@ -1650,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
@@ -1664,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Monotonic Stack
 |  |
 | ------- |
