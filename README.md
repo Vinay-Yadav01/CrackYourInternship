@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -1627,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -1771,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
