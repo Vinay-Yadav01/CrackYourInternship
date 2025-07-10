@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1709,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2465-shifting-letters-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
