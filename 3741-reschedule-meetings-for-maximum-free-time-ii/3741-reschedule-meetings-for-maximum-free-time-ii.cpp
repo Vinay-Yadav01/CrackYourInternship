@@ -35,6 +35,7 @@ public:
             int rightMax = (i + 2 < m) ? suffixMax[i + 2] : -1;
 
             if (max(leftMax, rightMax) >= duration) {
+                cout<<i<<endl;
                 maxFree = max(maxFree, mergedGap + duration);
             }
         }
