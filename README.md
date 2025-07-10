@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1577,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
