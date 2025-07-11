@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1893,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1955,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
