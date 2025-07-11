@@ -2021,6 +2021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
