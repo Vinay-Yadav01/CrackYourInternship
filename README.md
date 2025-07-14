@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
