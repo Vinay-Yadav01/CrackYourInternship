@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0275-h-index-ii) |
@@ -1514,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0341-flatten-nested-list-iterator) |
 | [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0860-design-circular-queue) |
@@ -1646,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1679,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1934,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
