@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
