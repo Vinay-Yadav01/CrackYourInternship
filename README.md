@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2391-strong-password-checker-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2391-strong-password-checker-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1372,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1516,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
@@ -1958,6 +1963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 ## Geometry
 |  |
 | ------- |
