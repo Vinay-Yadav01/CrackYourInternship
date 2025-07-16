@@ -1173,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0396-rotate-function) |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0367-valid-perfect-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
