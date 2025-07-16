@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
+| [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1488,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -1552,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1249-snapshot-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1497-design-a-stack-with-increment-operation) |
