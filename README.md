@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
