@@ -1,24 +1,18 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        int countEven = 0, countOdd = 0;
-        for (int num : nums) {
-            if (num % 2 == 0) countEven++;
-            else countOdd++;
-        }
+        int res = 0, n = nums.size();
 
-        // Try building alternating parity subsequence
-        int altLen = 1; // At least one number
-        int prevParity = nums[0] % 2;
+        int odd = 0, even = 0, alternate = 1, prev = nums[0];
+        for(int i = 0; i < n; i++){
+            if(nums[i] % 2 == 1) odd++;
+            else even++;
 
-        for (int i = 1; i < nums.size(); ++i) {
-            int currParity = nums[i] % 2;
-            if (currParity != prevParity) {
-                altLen++;
-                prevParity = currParity;
+            if(i >= 1 && nums[i] % 2 != prev % 2){
+                alternate++;
+                prev = nums[i];
             }
         }
-
-        return max({countEven, countOdd, altLen});
+        return max({odd, even, alternate});
     }
 };
