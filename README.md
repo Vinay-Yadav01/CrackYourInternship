@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -1307,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
