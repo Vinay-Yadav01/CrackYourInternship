@@ -2181,4 +2181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0374-guess-number-higher-or-lower) |
+## Concurrency
+|  |
+| ------- |
+| [1316-fizz-buzz-multithreaded](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
