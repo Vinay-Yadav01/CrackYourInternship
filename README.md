@@ -2185,4 +2185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-fizz-buzz-multithreaded](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1316-fizz-buzz-multithreaded) |
+| [1340-the-dining-philosophers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
