@@ -2199,6 +2199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Concurrency
 |  |
 | ------- |
+| [1187-print-foobar-alternately](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1187-print-foobar-alternately) |
 | [1316-fizz-buzz-multithreaded](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
