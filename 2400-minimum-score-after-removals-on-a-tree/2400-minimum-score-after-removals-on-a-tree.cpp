@@ -2,11 +2,9 @@ class Solution {
 public:
     int res = INT_MAX;
     int total;
-    vector<int> val;
-
     int dfs2(int x, int par, int ans1, int anc, vector<vector<int>>& adj,
              vector<int>& nums) {
-        int xorr = val[x];
+        int xorr = nums[x];
         for (auto& ch : adj[x]) {
             if (ch == par)
                 continue;
@@ -21,7 +19,7 @@ public:
     }
 
     int dfs(int x, int par, vector<vector<int>>& adj, vector<int>& nums) {
-        int xorr = val[x];
+        int xorr = nums[x];
         for (auto& ch : adj[x]) {
             if (ch == par)
                 continue;
@@ -48,8 +46,6 @@ public:
         total = 0;
         for (auto x : nums)
             total ^= x;
-
-        val = nums;
         dfs(0, -1, adj, nums);
         return res;
     }
