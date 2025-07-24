@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3188-find-champion-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3265-maximum-good-subarray-sum) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2053,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -2125,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Minimum Spanning Tree
