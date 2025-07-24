@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2183-minimum-operations-to-convert-number) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1492,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
+| [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
