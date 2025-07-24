@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0513-find-bottom-left-tree-value) |
@@ -1464,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
