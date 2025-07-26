@@ -26,27 +26,50 @@ public:
         // vector<vector<int>> dp(n, vector<int>(m + 1, -1));
         // return solve(n - 1, m, grid, dp);
 
+        // int n = grid.size(), m = grid[0].size();
+        // vector<vector<int>> dp(n, vector<int>(m + 1, 0));
+        // for (int prevCol = 0; prevCol <= m; prevCol++) {
+        //     int minElement = 1e9;
+        //     for (int j = 0; j < m; j++) {
+        //         if (j != prevCol)
+        //             minElement = min(minElement, grid[0][j]);
+        //     }
+        //     dp[0][prevCol] = minElement;
+        // }
+        // for (int row = 1; row < n; row++) {
+        //     for (int prevCol = 0; prevCol <= m; prevCol++) {
+        //         int minElement = 1e9;
+        //         for (int j = 0; j < m; j++) {
+        //             if (j != prevCol)
+        //                 minElement =
+        //                     min(minElement, grid[row][j] + dp[row - 1][j]);
+        //         }
+        //         dp[row][prevCol] = minElement;
+        //     }
+        // }
+        // return dp[n - 1][m];
+
         int n = grid.size(), m = grid[0].size();
-        vector<vector<int>> dp(n, vector<int>(m + 1, 0));
+        vector<int> prev(m + 1, 0), curr(m + 1, 0);
         for (int prevCol = 0; prevCol <= m; prevCol++) {
             int minElement = 1e9;
             for (int j = 0; j < m; j++) {
                 if (j != prevCol)
                     minElement = min(minElement, grid[0][j]);
             }
-            dp[0][prevCol] = minElement;
+            prev[prevCol] = minElement;
         }
         for (int row = 1; row < n; row++) {
             for (int prevCol = 0; prevCol <= m; prevCol++) {
                 int minElement = 1e9;
                 for (int j = 0; j < m; j++) {
                     if (j != prevCol)
-                        minElement =
-                            min(minElement, grid[row][j] + dp[row - 1][j]);
+                        minElement = min(minElement, grid[row][j] + prev[j]);
                 }
-                dp[row][prevCol] = minElement;
+                curr[prevCol] = minElement;
             }
+            prev = curr;
         }
-        return dp[n - 1][m];
+        return prev[m];
     }
 };
