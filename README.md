@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0416-partition-equal-subset-sum) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0416-partition-equal-subset-sum) |
