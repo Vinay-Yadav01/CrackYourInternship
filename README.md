@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
@@ -1348,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
