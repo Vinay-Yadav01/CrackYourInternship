@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2665-minimum-time-to-repair-cars) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1975,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3241-divide-array-into-arrays-with-max-difference) |
