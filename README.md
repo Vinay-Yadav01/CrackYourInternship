@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
@@ -1803,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
