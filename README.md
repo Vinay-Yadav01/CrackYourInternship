@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2227-sum-of-subarray-ranges) |
 | [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1889,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
