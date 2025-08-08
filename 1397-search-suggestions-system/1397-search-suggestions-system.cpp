@@ -1,25 +1,21 @@
 class Solution {
 public:
-    vector<vector<string>> suggestedProducts(vector<string>& products,
-                                             string searchWord) {
-        int n = products.size();
-        sort(products.begin(), products.end());
-        vector<vector<string>> ans;
-        vector<string> temp;
-        string curr = "";
-        for (char ch : searchWord) {
-            curr += ch;
-            temp.clear();
-            for (int i = 0; i < n; i++) {
-                string s = products[i];
-                if (s.substr(0, curr.length()) == curr) {
-                    temp.push_back(s);
-                }
-                if (temp.size() == 3)
-                    break;
+    vector<vector<string>> suggestedProducts(vector<string>& A, string searchWord) {
+        auto it = A.begin();
+        sort(it, A.end());
+        vector<vector<string>> res;
+        string cur = "";
+        for (char c : searchWord) {
+            cur += c;
+            vector<string> suggested;
+            it = lower_bound(it, A.end(), cur);
+            for (int i = 0; i < 3 && it + i != A.end(); i++) {
+                string& s = *(it + i);
+                if (s.find(cur)) break;
+                suggested.push_back(s);
             }
-            ans.push_back(temp);
+            res.push_back(suggested);
         }
-        return ans;
+        return res;
     }
 };
