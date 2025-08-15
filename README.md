@@ -1246,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
@@ -1442,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
@@ -1699,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
