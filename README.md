@@ -1267,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0755-reach-a-number) |
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
@@ -1368,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1825,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -2321,4 +2324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
