@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
+| [1006-vowel-spellchecker](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1032-satisfiability-of-equality-equations) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
+| [1006-vowel-spellchecker](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1023-time-based-key-value-store) |
