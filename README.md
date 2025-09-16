@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -2231,6 +2234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
