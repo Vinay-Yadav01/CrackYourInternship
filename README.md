@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2430-number-of-excellent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2430-number-of-excellent-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2465-shifting-letters-ii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2391-strong-password-checker-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2391-strong-password-checker-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2494-sum-of-prefix-scores-of-strings) |
