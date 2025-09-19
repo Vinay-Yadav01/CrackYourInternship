@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3763-separate-squares-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3763-separate-squares-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -1620,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -1740,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
