@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1839-decode-xored-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1839-decode-xored-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1666-make-the-string-great) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -2006,6 +2008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
@@ -2090,6 +2093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1804-maximum-binary-string-after-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1858-latest-time-by-replacing-hidden-digits) |
