@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0820-find-eventual-safe-states) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
 | [0864-image-overlap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0864-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
@@ -1722,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0732-my-calendar-iii) |
 | [0755-reach-a-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0923-super-egg-drop) |
@@ -2007,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -2237,6 +2243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
