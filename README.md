@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1447-jump-game-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
