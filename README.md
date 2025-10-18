@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
@@ -1571,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0260-single-number-iii) |
@@ -1984,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
@@ -2432,6 +2436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -2446,6 +2451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Game Theory
 |  |
