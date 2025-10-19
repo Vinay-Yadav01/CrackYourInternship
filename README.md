@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1666-make-the-string-great](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1666-make-the-string-great) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1804-maximum-binary-string-after-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1804-maximum-binary-string-after-change) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1731-even-odd-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
@@ -2420,6 +2423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
