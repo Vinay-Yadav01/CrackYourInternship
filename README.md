@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
@@ -1925,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0140-word-break-ii) |
