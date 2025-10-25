@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2504-find-all-good-indices) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -1616,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2509-minimize-xor) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2792-neighboring-bitwise-xor) |
