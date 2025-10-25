@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0443-string-compression) |
@@ -1380,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1605,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0477-total-hamming-distance) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0934-bitwise-ors-of-subarrays) |
