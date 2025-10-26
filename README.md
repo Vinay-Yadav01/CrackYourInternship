@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1761-count-sorted-vowel-strings) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
@@ -2410,6 +2412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0830-largest-triangle-area) |
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
