@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1666-make-the-string-great](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1666-make-the-string-great) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1570,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1761-count-sorted-vowel-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
@@ -1641,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1839-decode-xored-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1839-decode-xored-array) |
