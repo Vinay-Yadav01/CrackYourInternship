@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0696-count-binary-substrings) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0606-construct-string-from-binary-tree) |
+| [0647-palindromic-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0696-count-binary-substrings) |
@@ -1535,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0552-student-attendance-record-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0740-delete-and-earn) |
