@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
+| [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1611,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
