@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
@@ -1752,6 +1753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
 | [0864-image-overlap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0864-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
@@ -2267,6 +2269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0876-hand-of-straights](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
