@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3591-shift-distance-between-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3591-shift-distance-between-two-strings) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1709,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -2215,6 +2217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3591-shift-distance-between-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3591-shift-distance-between-two-strings) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
