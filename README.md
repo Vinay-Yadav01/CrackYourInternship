@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -2010,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
