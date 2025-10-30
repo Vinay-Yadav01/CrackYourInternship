@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1489-pizza-with-3n-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1489-pizza-with-3n-slices) |
+| [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
