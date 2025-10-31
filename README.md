@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 | [4052-equal-score-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4052-equal-score-substrings) |
+| [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
+| [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
 ## Tree
 |  |
 | ------- |
@@ -2087,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
 ## Trie
 |  |
 | ------- |
