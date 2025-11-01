@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1765-merge-in-between-linked-lists) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
