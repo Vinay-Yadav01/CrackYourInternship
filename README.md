@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -1497,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2288-count-operations-to-obtain-zero) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2351,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
