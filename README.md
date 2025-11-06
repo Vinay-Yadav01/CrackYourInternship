@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
@@ -2615,6 +2616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3469-maximum-height-of-a-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
