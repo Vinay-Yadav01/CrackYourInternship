@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1342,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -1844,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3188-find-champion-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1935,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -2228,6 +2232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2681-put-marbles-in-bags) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -2468,6 +2473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
