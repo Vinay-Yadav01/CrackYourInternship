@@ -2526,6 +2526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1738-maximal-network-rank) |
 | [1916-find-center-of-star-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1916-find-center-of-star-graph) |
