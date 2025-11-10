@@ -1466,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0382-linked-list-random-node) |
@@ -1585,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0377-combination-sum-iv) |
@@ -2067,6 +2069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0679-24-game) |
