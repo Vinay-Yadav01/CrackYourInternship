@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
+| [2483-task-scheduler-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2483-task-scheduler-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2430-number-of-excellent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2430-number-of-excellent-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
+| [2483-task-scheduler-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2483-task-scheduler-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1786,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
+| [2483-task-scheduler-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2483-task-scheduler-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
