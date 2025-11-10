@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0654-maximum-binary-tree) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0690-employee-importance) |
@@ -2111,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -2208,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
@@ -2342,6 +2347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
