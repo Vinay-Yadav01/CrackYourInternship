@@ -1470,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0231-power-of-two) |
