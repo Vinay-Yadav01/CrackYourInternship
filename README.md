@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1666-make-the-string-great](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1666-make-the-string-great) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Stack
@@ -2677,6 +2679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
+| [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Bitmask
@@ -2689,6 +2692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Game Theory
 |  |
