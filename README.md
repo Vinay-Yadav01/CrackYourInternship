@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2594-count-pairs-of-similar-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2625-increment-submatrices-by-one](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1871,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3188-find-champion-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3188-find-champion-i) |
@@ -2330,6 +2332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2504-find-all-good-indices) |
 | [2571-find-the-pivot-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2571-find-the-pivot-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2625-increment-submatrices-by-one) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
