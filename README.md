@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -2409,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
