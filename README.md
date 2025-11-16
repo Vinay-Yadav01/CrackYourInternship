@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1666-make-the-string-great) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
@@ -1527,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1761-count-sorted-vowel-strings) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
