@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
