@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0680-valid-palindrome-ii) |
@@ -1531,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0755-reach-a-number) |
@@ -1948,6 +1950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
