@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0860-design-circular-queue) |
 | [0864-image-overlap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0864-image-overlap) |
 | [0876-hand-of-straights](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0876-hand-of-straights) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
@@ -1955,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0923-super-egg-drop) |
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
