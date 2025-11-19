@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2118-maximum-earnings-from-taxi) |
