@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0238-product-of-array-except-self) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0347-top-k-frequent-elements) |
@@ -2228,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
