@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -2234,6 +2236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
