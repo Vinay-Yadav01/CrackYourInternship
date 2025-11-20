@@ -14,7 +14,7 @@ public:
                     maxfreq = max(maxfreq, hash[i]);
                 }
             }
-            if((r - l + 1) - maxfreq <= k) maxlen = max(maxlen, r-l+1);
+            maxlen = max(maxlen, r - l + 1);
             r++;
         }
         return maxlen;
