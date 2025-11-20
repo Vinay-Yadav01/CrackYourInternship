@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0214-shortest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0257-binary-tree-paths) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0686-repeated-string-match) |
@@ -2729,6 +2731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -2745,6 +2748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Game Theory
