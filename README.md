@@ -1517,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0326-power-of-three) |
