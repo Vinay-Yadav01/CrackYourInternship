@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
+| [1626-best-team-with-no-conflicts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1626-best-team-with-no-conflicts) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1646-kth-missing-positive-number) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1539-diagonal-traverse-ii) |
+| [1626-best-team-with-no-conflicts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1626-best-team-with-no-conflicts) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1626-best-team-with-no-conflicts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1626-best-team-with-no-conflicts) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
