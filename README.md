@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Stack
 |  |
@@ -2011,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -2757,6 +2760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Bitmask
 |  |
@@ -2770,6 +2774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Game Theory
 |  |
@@ -2856,4 +2861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
