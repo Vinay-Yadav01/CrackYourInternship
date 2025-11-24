@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0954-maximum-sum-circular-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1569,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
 | [0923-super-egg-drop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0923-super-egg-drop) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
 | [1010-powerful-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
@@ -2581,6 +2584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0854-making-a-large-island) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -2694,6 +2698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2716-prime-subtraction-operation) |
