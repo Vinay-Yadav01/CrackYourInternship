@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0456-132-pattern) |
@@ -2114,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2050-count-good-numbers) |
