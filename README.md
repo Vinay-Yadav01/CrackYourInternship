@@ -1617,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -2184,6 +2185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2705,6 +2707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 ## Brainteaser
 |  |
 | ------- |
