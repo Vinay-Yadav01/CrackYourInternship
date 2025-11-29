@@ -1273,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
@@ -2185,6 +2187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0787-sliding-puzzle) |
+| [0797-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0797-all-paths-from-source-to-target) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -2625,6 +2628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
