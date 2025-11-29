@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2103-find-all-groups-of-farmland) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -2189,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 ## Divide and Conquer
@@ -2641,6 +2643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
