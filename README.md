@@ -1330,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2685-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -2621,6 +2623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2685-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -2670,6 +2673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2685-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
