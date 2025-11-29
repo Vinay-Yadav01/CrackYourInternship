@@ -1402,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -2647,6 +2648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1039-find-the-town-judge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1300-critical-connections-in-a-network) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
