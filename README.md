@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0813-largest-sum-of-averages](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-largest-sum-of-averages) |
 | [0816-design-hashset](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
@@ -1723,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0806-domino-and-tromino-tiling) |
+| [0813-largest-sum-of-averages](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-largest-sum-of-averages) |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
@@ -2421,6 +2423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0732-my-calendar-iii) |
+| [0813-largest-sum-of-averages](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0813-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1042-minimum-cost-to-merge-stones) |
