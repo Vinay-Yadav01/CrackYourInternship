@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -1913,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2483-task-scheduler-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
