@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1095-two-city-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1039-find-the-town-judge) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1955,6 +1957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1036-rotting-oranges) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
