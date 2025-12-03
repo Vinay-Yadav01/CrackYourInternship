@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0413-arithmetic-slices) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0409-longest-palindrome) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0419-battleships-in-a-board) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
@@ -2633,6 +2637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0721-accounts-merge) |
@@ -2665,6 +2670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0743-network-delay-time) |
@@ -2798,6 +2804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
