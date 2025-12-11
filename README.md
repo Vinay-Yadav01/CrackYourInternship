@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-shift-distance-between-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3591-shift-distance-between-two-strings) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1653,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -2772,6 +2774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Number Theory
 |  |
@@ -2790,6 +2793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Topological Sort
 |  |
 | ------- |
