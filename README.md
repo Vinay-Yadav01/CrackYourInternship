@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -1652,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1926,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3433-count-mentions-per-user](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
