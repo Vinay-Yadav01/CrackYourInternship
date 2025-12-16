@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-shift-distance-between-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3591-shift-distance-between-two-strings) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -1354,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3729-unit-conversion-i) |
@@ -1818,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
