@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-shift-distance-between-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3591-shift-distance-between-two-strings) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1823,6 +1824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
