@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0954-maximum-sum-circular-subarray) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0959-3sum-with-multiplicity) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0990-verifying-an-alien-dictionary) |
@@ -2538,6 +2540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0876-hand-of-straights](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0876-hand-of-straights) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
