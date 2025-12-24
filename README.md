@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-deepest-leaves-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-deepest-leaves-sum) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1995,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1331-path-with-maximum-gold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1331-path-with-maximum-gold) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-subrectangle-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1572-subrectangle-queries) |
@@ -2404,6 +2407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1304-longest-happy-string) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1489-pizza-with-3n-slices) |
@@ -2718,6 +2722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1300-critical-connections-in-a-network) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -2840,6 +2845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
