@@ -1680,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -2817,6 +2818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3669-balanced-k-factor-decomposition) |
 ## Brainteaser
 |  |
