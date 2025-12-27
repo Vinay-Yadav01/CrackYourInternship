@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2402-meeting-rooms-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2402-meeting-rooms-iii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2348-count-number-of-texts) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
+| [2402-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2430-number-of-excellent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2430-number-of-excellent-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1943,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2352-equal-row-and-column-pairs) |
 | [2389-design-a-text-editor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2389-design-a-text-editor) |
+| [2402-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
@@ -2422,6 +2426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
