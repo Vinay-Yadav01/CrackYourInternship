@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1650,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
