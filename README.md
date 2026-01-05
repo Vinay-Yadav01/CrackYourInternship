@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -2028,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1975-maximum-matrix-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2047-find-a-peak-element-ii) |
@@ -2607,6 +2609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1975-maximum-matrix-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
