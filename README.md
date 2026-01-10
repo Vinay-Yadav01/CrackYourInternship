@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -2157,6 +2161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
