@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -2930,6 +2932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2390-naming-a-company) |
 | [2528-number-of-valid-clock-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2528-number-of-valid-clock-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3201-distribute-candies-among-children-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
