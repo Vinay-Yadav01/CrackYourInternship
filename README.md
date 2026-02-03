@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-flip-square-submatrix-vertically) |
