@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
 ## Tree
@@ -2695,6 +2697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
