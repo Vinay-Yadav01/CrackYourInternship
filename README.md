@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3469-maximum-height-of-a-triangle) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3483-alternating-groups-ii) |
@@ -1886,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
