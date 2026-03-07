@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1880-largest-merge-of-two-strings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1862,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -2449,6 +2451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1755-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
