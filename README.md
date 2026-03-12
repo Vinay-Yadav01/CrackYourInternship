@@ -2205,6 +2205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -2713,6 +2714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -2967,6 +2969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -3114,5 +3117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
