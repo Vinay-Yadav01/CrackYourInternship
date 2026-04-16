@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3678-design-task-manager) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
