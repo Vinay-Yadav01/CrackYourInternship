@@ -1751,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
