@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1539-diagonal-traverse-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-design-browser-history) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1513,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1731-even-odd-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-subrectangle-queries](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1572-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -3136,5 +3140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
