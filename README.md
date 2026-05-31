@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-count-good-triplets-in-an-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2308-divide-array-into-equal-pairs) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1720,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -2920,6 +2923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
@@ -2938,6 +2942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0952-largest-component-size-by-common-factor) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2716-prime-subtraction-operation) |
