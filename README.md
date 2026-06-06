@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2792-neighboring-bitwise-xor) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
@@ -2033,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2483-task-scheduler-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
