@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-maximum-ice-cream-bars) |
 | [1839-decode-xored-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1839-decode-xored-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1876-map-of-highest-peak) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -2709,6 +2711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1804-maximum-binary-string-after-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-maximum-ice-cream-bars) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1880-largest-merge-of-two-strings) |
@@ -3126,6 +3129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-maximum-ice-cream-bars) |
 ## Line Sweep
 |  |
 | ------- |
