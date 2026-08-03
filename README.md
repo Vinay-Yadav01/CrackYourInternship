@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1724,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1885,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -3076,6 +3079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0909-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3462-vowels-game-in-a-string) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Database
@@ -3174,4 +3178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
