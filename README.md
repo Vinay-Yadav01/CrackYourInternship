@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
@@ -2055,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2662-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3433-count-mentions-per-user](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3433-count-mentions-per-user) |
