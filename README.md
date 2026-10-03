@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3748-sort-matrix-by-diagonals) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -2262,6 +2264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3763-separate-squares-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3763-separate-squares-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3791-fruits-into-baskets-iii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -3059,6 +3062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
