@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -2473,6 +2475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Trie
 |  |
 | ------- |
