@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-minimum-absolute-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1306-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1313-decompress-run-length-encoded-list) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-path-with-maximum-gold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1335-maximum-candies-allocated-to-k-children) |
