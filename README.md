@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0556-next-greater-element-iii) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
