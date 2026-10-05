@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
@@ -1229,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3797-design-spreadsheet) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-majority-frequency-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4053-majority-frequency-characters) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Tree
