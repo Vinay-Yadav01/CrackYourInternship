@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0822-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0856-score-of-parentheses) |
 | [0858-masking-personal-information](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0858-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0868-push-dominoes) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0872-split-array-into-fibonacci-sequence) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0937-online-stock-span) |
@@ -3218,5 +3220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
