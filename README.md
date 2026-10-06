@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1207-unique-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-unique-number-of-occurrences) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1207-unique-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-unique-number-of-occurrences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1238-alphabet-board-path](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1238-alphabet-board-path) |
 | [1249-snapshot-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1249-snapshot-array) |
