@@ -1738,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0877-stone-game) |
 | [0897-prime-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0897-prime-palindrome) |
@@ -2984,6 +2985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0836-rectangle-overlap) |
 | [0976-minimum-area-rectangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
