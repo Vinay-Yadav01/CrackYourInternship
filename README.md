@@ -1750,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
+| [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
@@ -2062,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0921-spiral-matrix-iii) |
+| [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
