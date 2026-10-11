@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1249-snapshot-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1249-snapshot-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1761,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
 | [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -2073,6 +2075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0921-spiral-matrix-iii) |
 | [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1951-find-the-winner-of-the-circular-game) |
