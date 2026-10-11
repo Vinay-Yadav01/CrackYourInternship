@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
+| [1332-remove-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1332-remove-palindromic-subsequences) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1880-largest-merge-of-two-strings) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1332-remove-palindromic-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1397-search-suggestions-system) |
