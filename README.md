@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
@@ -1780,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1018-largest-perimeter-triangle) |
 | [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
