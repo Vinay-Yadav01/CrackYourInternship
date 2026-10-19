@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1748-sum-of-unique-elements) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1755-defuse-the-bomb) |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1694-make-sum-divisible-by-p) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1479,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1970-last-day-where-you-can-still-cross) |
