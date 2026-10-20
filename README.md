@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
+| [3886-sum-of-sortable-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3886-sum-of-sortable-integers) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3748-sort-matrix-by-diagonals) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+| [3886-sum-of-sortable-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
@@ -1845,6 +1847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3830-find-closest-person) |
+| [3886-sum-of-sortable-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -3137,6 +3140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Function
 |  |
