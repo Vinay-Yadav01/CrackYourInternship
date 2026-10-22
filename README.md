@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3863-power-grid-maintenance) |
 | [3886-sum-of-sortable-integers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4041-climbing-stairs-ii) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/4056-number-of-intersecting-interval-pairs-i) |
