@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1332-remove-palindromic-subsequences) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1791,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1103-distribute-candies-to-people) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1236-n-th-tribonacci-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1236-n-th-tribonacci-number) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1406-stone-game-iii) |
@@ -2281,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1249-snapshot-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1249-snapshot-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -3249,6 +3252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0374-guess-number-higher-or-lower) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Concurrency
 |  |
 | ------- |
