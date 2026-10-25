@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1249-snapshot-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1475,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-number-of-closed-islands) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1588,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-deepest-leaves-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-number-of-closed-islands) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -2192,6 +2195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-path-with-maximum-gold](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1331-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -3281,6 +3285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
