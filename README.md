@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1923-sentence-similarity-iii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -2532,6 +2534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1983-maximum-population-year](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
