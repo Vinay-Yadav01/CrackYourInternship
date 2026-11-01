@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2027-minimum-moves-to-convert-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -2847,6 +2848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-maximum-matrix-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2027-minimum-moves-to-convert-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2140-longest-subsequence-repeated-k-times) |
