@@ -1833,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2649-count-total-number-of-colored-cells) |
@@ -3073,6 +3074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
