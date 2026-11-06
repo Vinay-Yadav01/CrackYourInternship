@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2792-neighboring-bitwise-xor) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2747-count-zero-request-servers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2747-count-zero-request-servers) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2721-sum-of-distances) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
@@ -2625,6 +2628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2747-count-zero-request-servers) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2832-find-the-longest-equal-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
