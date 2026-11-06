@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-number-of-enclaves](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1073-number-of-enclaves) |
+| [1089-duplicate-zeros](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1089-duplicate-zeros) |
 | [1095-two-city-scheduling](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1104-coloring-a-border](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1104-coloring-a-border) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1028-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1089-duplicate-zeros) |
 | [1129-longest-string-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1129-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1332-remove-palindromic-subsequences) |
