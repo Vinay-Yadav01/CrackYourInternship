@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
@@ -2809,6 +2810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/0646-maximum-length-of-pair-chain) |
