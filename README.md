@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-maximum-points-inside-the-square](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3143-maximum-points-inside-the-square) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -2888,6 +2890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/3228-maximum-size-of-a-set-after-removals) |
