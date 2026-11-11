@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1816-truncate-sentence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1816-truncate-sentence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-find-the-highest-altitude) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -2855,6 +2857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1804-maximum-binary-string-after-change](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vinay-Yadav01/CrackYourInternship/tree/master/1818-maximum-score-from-removing-substrings) |
